@@ -1,0 +1,10 @@
+{
+  "name": "the-chronicle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Chronicle — 纽约客风格个人数字报刊（数据驱动静态站点）",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "python build.py"
+  }
+}
